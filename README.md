@@ -1,0 +1,2 @@
+# AmazingCalculator
+Javacript laboratory
